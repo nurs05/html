@@ -1,0 +1,40 @@
+table{
+  width: 70%;
+  border: 2px solid lightblue;
+  font-family: Georgia;
+  text-align: left;
+  position: relative;
+  border-collapse: collapse;
+  padding: 10px;
+  text-shadow: 1px 1px 1px #fff;
+}
+th{
+  background-color: lightblue;
+  padding: 10px;
+  color: #336B6B;
+}
+td{
+  border-bottom: 1px solid black;
+  padding: 9px;
+}
+body{
+
+  background-color: white;
+ }
+h1{
+  text-align: center;
+  color: black;
+  text-transform: uppercase;
+
+}
+h2{
+  color: black;
+  text-align: center;
+  text-transform:;
+}
+tr:nth-child(odd){
+  background-color: #EEF9EE;
+}
+tr:hover {
+  background-color: #D6EEEE;
+}
